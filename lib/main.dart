@@ -21,14 +21,12 @@ class _MyAppState extends State<MyApp> {
             Text(
               'Did You Know?'              
             ),
-
             Text(
               'questions'
             )
           ],
         ),
       ),
-
     );
   }
 }
