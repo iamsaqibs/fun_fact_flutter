@@ -1,16 +1,19 @@
-# fun_fact
+<h1 align="center">Welcome to fun_fact_flutter 👋</h1>
+<p>
+  <a href="https://twitter.com/saqible" target="_blank">
+    <img alt="Twitter: saqible" src="https://img.shields.io/twitter/follow/saqible.svg?style=social" />
+  </a>
+</p>
 
-A new Flutter project.
+> A simple fun fact App in flutter
 
-## Getting Started
+## Author
 
-This project is a starting point for a Flutter application.
+👤 **Saqib S.**
 
-A few resources to get you started if this is your first Flutter project:
+* Twitter: [@saqible](https://twitter.com/saqible)
+* Github: [@iamsaqibs](https://github.com/iamsaqibs)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Show your support
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Give a ⭐️ if this project helped you!
