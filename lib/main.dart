@@ -33,18 +33,21 @@ class _MyAppState extends State<MyApp> {
                 'Did You Know?',
                 style: TextStyle(color: Colors.white, fontSize: 30),
               ),
-              Text(
-                fact,
-                style: TextStyle(
-                  color: Colors.white,
-                  fontSize: 25,
-                  fontWeight: FontWeight.w400,
+              Padding(
+                padding: const EdgeInsets.only(left: 20.0, right: 20),
+                child: Text(
+                  fact,
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 25,
+                    fontWeight: FontWeight.w400,
+                  ),
                 ),
               ),
               RaisedButton(
                 color: Colors.white,
                 child: Padding(
-                  padding: const EdgeInsets.all(8.0),
+                  padding: const EdgeInsets.symmetric(vertical: 17.0, horizontal: 50.0),
                   child: Text(
                     'Show Another Fun Fact!',
                     style: TextStyle(),
