@@ -3,9 +3,7 @@ import 'dart:convert' as convert;
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 
-void main() => runApp(new MaterialApp(
-      home: MyApp(),
-    ));
+void main() => runApp(new MaterialApp(home: MyApp()));
 
 class MyApp extends StatefulWidget {
   @override
@@ -20,6 +18,7 @@ class _MyAppState extends State<MyApp> {
     getFact();
   }
   @override
+  //build function
   Widget build(BuildContext context) {
     return new Scaffold(
       backgroundColor: Colors.blue,
